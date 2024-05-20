@@ -1,0 +1,16 @@
+PODS:
+  - NetwokingTest (0.1.0)
+
+DEPENDENCIES:
+  - NetwokingTest (from `../`)
+
+EXTERNAL SOURCES:
+  NetwokingTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NetwokingTest: 4d16705433c4c4ae1205b064d9b92014aa6ef976
+
+PODFILE CHECKSUM: cd41acde5b7278ba557ccef4e517ac1992fc1719
+
+COCOAPODS: 1.15.2

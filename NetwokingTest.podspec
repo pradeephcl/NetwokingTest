@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NetwokingTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of NetwokingTest.'
+  s.summary          = 'A meaningfull description of Networking.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,10 +28,9 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/pradeephcl/NetwokingTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
-
+  s.ios.deployment_target = '17.0'
   s.source_files = 'NetwokingTest/Classes/**/*'
-  
+  s.swift_version = '5.0'
   # s.resource_bundles = {
   #   'NetwokingTest' => ['NetwokingTest/Assets/*.png']
   # }
