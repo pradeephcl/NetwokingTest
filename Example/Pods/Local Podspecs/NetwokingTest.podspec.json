@@ -1,7 +1,7 @@
 {
   "name": "NetwokingTest",
-  "version": "0.1.0",
-  "summary": "A short description of NetwokingTest.",
+  "version": "1.0.0",
+  "summary": "A meaningfull description of Networking.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/pradeephcl/NetwokingTest",
   "license": {
@@ -13,10 +13,12 @@
   },
   "source": {
     "git": "https://github.com/pradeephcl/NetwokingTest.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "17.0"
   },
-  "source_files": "NetwokingTest/Classes/**/*"
+  "source_files": "NetwokingTest/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }

@@ -1,5 +1,5 @@
 PODS:
-  - NetwokingTest (0.1.0)
+  - NetwokingTest (1.0.0)
 
 DEPENDENCIES:
   - NetwokingTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  NetwokingTest: 4d16705433c4c4ae1205b064d9b92014aa6ef976
+  NetwokingTest: 0f174c20fe2e7fa9bcb33e013cada91db01ea7c3
 
 PODFILE CHECKSUM: cd41acde5b7278ba557ccef4e517ac1992fc1719
 
